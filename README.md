@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Bhagat
 
-<!--
-**ptrix09/ptrix09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Engineering graduate | SPPU
+📍 Based in Mumbai, India  
+💼 Actively seeking entry-level roles in **Data Science**, **Data Analytics**, or **Business Intelligence**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+I'm a tech-driven individual passionate about turning data into meaningful insights.  
+Currently building hands-on projects in Python, SQL, and Power BI, while expanding my skillset in Generative AI and Full Stack Python development.
+
+I believe in **learning by doing**, and my GitHub reflects that through real-world, practical projects.
+
+---
+
+### 🔧 Skills & Tools
+
+- **Languages**: Python, SQL, HTML/CSS, Java(basic)
+- **Tools & Libraries**: Power BI, MySQL, Pandas, Matplotlib, VS Code, Plotly dash
+- **Learning**: Git/GitHub, API Integration, Django, Angular
+
+---
+
+### 📊 Featured Projects
+
+| [Sales Dashboard](https://github.com/ptrix09/Power-BI-project) | Visualized regional sales performance using bar charts, KPI cards, filters | Power BI, CSV |
+| Student Grade Analyzer *(Coming Soon)* | Analyze student exam performance with basic Python & pandas logic | Python, Pandas, CSV |
+
+---
+
+### 📈 Current Focus
+
+- Enhancing my GitHub with data-driven projects (Python, SQL, Power BI)
+- Preparing for MS in Computer/Data Science (Spring/Fall 2026)
+- Gaining internship experience (currently interning at Reliance Jio in Gen AI Dashboard domain)
+
+---
+
+### 🤝 Let's Connect
+
+📧 Email: piyushbhagat1234@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/piyushbhagat09)  
+🌐 [GitHub](https://github.com/ptrix09)
+
+---
+
+
+
+
