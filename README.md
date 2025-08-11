@@ -23,13 +23,6 @@ I believe in **learning by doing**, and my GitHub reflects that through real-wor
 
 ---
 
-### 📊 Featured Projects
-
-| [Sales Dashboard](https://github.com/ptrix09/Power-BI-project) | Visualized regional sales performance using bar charts, KPI cards, filters | Power BI, CSV |
-| Student Grade Analyzer *(Coming Soon)* | Analyze student exam performance with basic Python & pandas logic | Python, Pandas, CSV |
-
----
-
 ### 📈 Current Focus
 
 - Enhancing my GitHub with data-driven projects (Python, SQL, Power BI)
