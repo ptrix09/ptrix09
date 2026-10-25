@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Piyush Bhagat
 
-🎓 IT Engineering graduate | SPPU
-📍 Based in Mumbai, India  
-💼 Actively seeking entry-level roles in **Data Science**, **Data Analytics**, or **Business Intelligence**
+🎓 Msc. Digital Engineering | Otto Von Guericke University. 
+📍 Based in Magdeburg, Germany.  
+💼 Actively seeking roles in **Data Science**, **Data Analytics**, or **Business Intelligence**
 
 ---
 
